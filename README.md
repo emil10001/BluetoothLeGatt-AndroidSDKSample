@@ -12,4 +12,4 @@ BLE, Smart, etc.). This is a really neat sample, so download it and
 test it out yourself.
 
 I have not made any code modifications to this project, nor will I.
-The license appears in the [NOTICE.txt](blob/master/NOTICE.txt) file.
+The license appears in the [NOTICE.txt](NOTICE.txt) file.
